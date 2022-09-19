@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\bin\Debug\net6.0\Example006_Bace.exe
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\bin\Debug\net6.0\Example006_Bace.deps.json
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\bin\Debug\net6.0\Example006_Bace.runtimeconfig.json
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\bin\Debug\net6.0\Example006_Bace.dll
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\bin\Debug\net6.0\Example006_Bace.pdb
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.dll
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\refint\Example006_Bace.dll
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.pdb
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\Example006_Bace.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\учеба\C#\examples\Example006_Bace\obj\Debug\net6.0\ref\Example006_Bace.dll
