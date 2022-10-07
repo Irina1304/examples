@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\bin\Debug\net6.0\Example012_Text.exe
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\bin\Debug\net6.0\Example012_Text.deps.json
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\bin\Debug\net6.0\Example012_Text.runtimeconfig.json
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\bin\Debug\net6.0\Example012_Text.dll
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\bin\Debug\net6.0\Example012_Text.pdb
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.dll
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\refint\Example012_Text.dll
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.pdb
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\Example012_Text.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба\C#\examples\Example012_Text\obj\Debug\net6.0\ref\Example012_Text.dll
